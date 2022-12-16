@@ -1,1 +1,1 @@
-#Pet name generator using Open AI
+# Pet name generator using Open AI
